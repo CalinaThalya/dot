@@ -1,4 +1,12 @@
+rm552523 - Calina Thalya Santana da Silva
 
+rm552539 - NATHAN NUNES CALSONARI
+
+rm552513 - ANA PAULA NASCIMENTO SILVA
+
+rm99646 - Geovana Ribeiro Domingos Silva
+
+rm552537 - LEONARDO CAMARGO LUCENA
 
 # dot - API .NET
 
@@ -69,7 +77,5 @@ Contribuições são bem-vindas! Por favor, faça um fork do projeto e envie um 
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
 
----
 
